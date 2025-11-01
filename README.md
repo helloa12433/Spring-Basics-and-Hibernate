@@ -170,7 +170,7 @@ java -cp ".:path_to_spring_jars/*:path_to_hibernate_jars/*:path_to_jpa_jars/*:pa
 ## 👨‍💻 Author
 
 Nimbus Submission by
-Harsh Kumar
-23BCS13912
+Pankaj Kumar
+23BCS12433
 3rd Year CSE Student
 Submitted for: *Spring and Hibernate Applications*
